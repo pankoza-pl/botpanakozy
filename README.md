@@ -1,0 +1,2 @@
+# botpanakozy
+bot discord
